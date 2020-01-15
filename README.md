@@ -327,10 +327,10 @@ public class Archives extends TemplateDirective {
 
 ​	通过上述的重构与改造，使得FreeMarker自定义标签的配置工作得到简化，同时指令的命名也以统一的格式和规范进行管理。另外，由于统一了命名方式，开发人员在看到自定义指令类时便可知道模板中对应的指令名称是什么，提高了代码的可读性。
 
-最后附上项目测试短动画和github项目地址。
+最后附上项目测试短动画和原文地址。
 
 ![](https://cdn.ramostear.com/20200115-c33f2afe174d4c57ad1cd4e976bc98cf.gif)
 
-你可以访问下面的地址获取本文附属的项目源码：
+你可以访问下面的地址查看原文
 
-https://github.com/ramostear/springboot-freemarker
+https://www.ramostear.com/post/2020/01/15/5j70j58b.html
